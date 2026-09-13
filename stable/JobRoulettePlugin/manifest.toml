@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/sleeds2/jobroulette.git"
-commit = "b88eb574bead5c416c01764d9f9d37e2184713bb"
+commit = "acb5ba12b575fa1c994948f461a2cfbbd84d5eab"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 project_path = "JobRoulettePlugin"
 changelog = """\
-**Update**: Random Glamour Plate option is now ignored when a Gearset has a linked Glamour Plate
-- Toggle added to the settings panel to enable/disable overriding the linked Glamour Plate
+**Update**: Added class support.
 """

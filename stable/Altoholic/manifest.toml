@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "c8e9b2ae6c77b874213b6487e7b7a6cf702e7457"
+commit = "a47d82335b848bfc65454a35d28a61f1d170aa42"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix reset window command
-- **Progress**: Fix Dwarven emote reward Lali-ho to Lali-hop
+- **General**: Fix potential ImGui assertion errors due to columns headers
+- **Progress**: Fix Old moogle reward not showing after 1.12.15 rework
 """

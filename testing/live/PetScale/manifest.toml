@@ -1,8 +1,15 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "cc6e9e4ca782059263f3d7e8266d4105de60cb5b"
+commit = "cec77b6fab6affd8c5db7e49b5d710c5219e3b5a"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- Quarterly API Bump
+- Clear beast name filter upon selection
+- Prevent AllPets applying to beasts and vice-versa
+- Actually scale the beastmaster pets
+- Figured out the normal / variant skins thanks to Glyceri
+Warning: 
+- There's a very real chance that I ommited something, or broke some of the existing scaling, so this is a true testing release.
+  
+  Data should be unaffected by this change, but I can't make any guarantees.
 """
